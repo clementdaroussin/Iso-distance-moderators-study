@@ -18,7 +18,7 @@ Comparing the spatial distribution of the neutron flux across the three material
 
 | Light Water ($H_2O$) | Graphite ($C$) | Heavy Water ($D_2O$) |
 | :---: | :---: | :---: |
-| ![Light Water Flux](flux_light_water.png) | ![Graphite Flux](flux_graphite.png) | ![Heavy Water Flux](flux_heavy_water.png) |
+| ![Light Water Flux](results/flux_light_water.png) | ![Graphite Flux](results/flux_graphite.png) | ![Heavy Water Flux](results/flux_heavy_water.png) |
 
 ---
 
